@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ugashanth
 - 👀 I’m interested in Coding, UX design, 3D modelling
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on coding ideas & question i have about each coding languages
+- 💞️ I’m looking to collaborate on coding ideas & question i have about each programming languages
 - 📫 How to reach me Ugashanth70@gmail.com
 
 <!---
